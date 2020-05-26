@@ -1,0 +1,25 @@
+{
+    "name": "luau2shabu/lazada-laravel",
+    "description": "Lazada SDK open API for Laravel ",
+    "keywords": [
+        "lazada",
+        "laravel"
+    ],
+    "homepage": "https://github.com/luau2shabu/lazada-laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rattakhorn Phetsawat",
+            "email": "rattakhorn@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^7.12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "luau2shabu\\Lazada\\": "src"
+        }
+    }
+}

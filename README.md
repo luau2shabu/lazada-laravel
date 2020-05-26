@@ -1,2 +1,6 @@
-# lazada-laravel
-Lazada open API for Laravel . Composer install
+# lazada -laravel
+Lazada SDK open API for Laravel 
+
+## Installation
+
+`composer require luau2shabu/lazada-laravel`
